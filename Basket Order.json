@@ -1,0 +1,50 @@
+[
+ {
+   "Asset Class": "Equity",
+   "Symbol": "TSLA",
+   "Client Account": 111,
+   "Side": "Buy",
+   "Qty": 1000,
+   "Amount": null
+ },
+ {
+   "Asset Class": "Equity",
+   "Symbol": "TSLA",
+   "Client Account": 222,
+   "Side": "Buy",
+   "Qty": 2000,
+   "Amount": null
+ },
+ {
+   "Asset Class": "Equity",
+   "Symbol": "TSLA",
+   "Client Account": 222,
+   "Side": "Sell",
+   "Qty": 1200,
+   "Amount": null
+ },
+ {
+   "Asset Class": "Mutual Fund",
+   "Symbol": "ESIX",
+   "Client Account": 111,
+   "Side": "Buy",
+   "Qty": null,
+   "Amount": 5000
+ },
+ {
+   "Asset Class": "Mutual Fund",
+   "Symbol": "TGIX",
+   "Client Account": 111,
+   "Side": "Buy",
+   "Qty": null,
+   "Amount": 4000
+ },
+ {
+   "Asset Class": "Mutual Fund",
+   "Symbol": "ESIX",
+   "Client Account": 222,
+   "Side": "Buy",
+   "Qty": null,
+   "Amount": 8000
+ }
+]
